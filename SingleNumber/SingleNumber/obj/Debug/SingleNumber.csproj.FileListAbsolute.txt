@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\bin\Debug\SingleNumber.exe.config
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\bin\Debug\SingleNumber.exe
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\bin\Debug\SingleNumber.pdb
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\obj\Debug\SingleNumber.exe
+C:\Users\stefa\source\repos\SingleNumber\SingleNumber\obj\Debug\SingleNumber.pdb
